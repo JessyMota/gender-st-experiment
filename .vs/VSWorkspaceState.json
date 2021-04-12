@@ -9,8 +9,8 @@
     "\\webapp\\assets\\stFemale\\images",
     "\\webapp\\assets\\stMale",
     "\\webapp\\scripts",
-    "\\webapp\\scripts\\controllers"
+    "\\webapp\\views"
   ],
-  "SelectedNode": "\\webapp\\scripts\\services.js",
+  "SelectedNode": "\\Server.js",
   "PreviewInSolutionExplorer": false
 }
