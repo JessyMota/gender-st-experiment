@@ -9,8 +9,8 @@
     "\\webapp\\assets\\stFemale\\images",
     "\\webapp\\assets\\stMale",
     "\\webapp\\scripts",
-    "\\webapp\\views"
+    "\\webapp\\scripts\\controllers"
   ],
-  "SelectedNode": "\\Server.js",
+  "SelectedNode": "\\responses.csv",
   "PreviewInSolutionExplorer": false
 }

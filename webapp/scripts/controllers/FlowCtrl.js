@@ -25,7 +25,7 @@ angular
             $scope.processAnswers = function () {
                 //console.log($scope.answers);
                 //  validation
-                if ($scope.answers.lenght < 8) {
+                if ($scope.answers.length < 8) {
                     $scope.msg = "Por favor, responda todas as perguntas!";
                 } else {
                     function add(a, b) {
@@ -34,9 +34,6 @@ angular
 
                     var ans = $scope.answers;
                     console.log(ans);
-
-               
-                    
 
                     var sum = ans.reduce(add, 0);
 
